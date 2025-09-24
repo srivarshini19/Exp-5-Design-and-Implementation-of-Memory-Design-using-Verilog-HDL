@@ -74,7 +74,7 @@ always #10 clk_t = ~clk_t;
 endmodule
 ```
 # output Waveform
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5bf7d566-b3b9-46f7-a8d1-24c98870e991" />
+<img width="1920" height="1080" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/fd22518b-df24-4769-a932-9f9c3523291f" />
 
 # ROM
  # code
